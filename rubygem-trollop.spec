@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    1.16.2
-Release:    %mkrel 1
+Release:    2
 Summary:    Trollop is a commandline option parser for Ruby that just gets out of your way
 Group:      Development/Ruby
 License:    Ruby or GPLv2
